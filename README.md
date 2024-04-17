@@ -1,4 +1,4 @@
-Hello Coders 😘😘😘
+Hello Coders &#128187;
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on Funny Practice Project
