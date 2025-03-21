@@ -1,4 +1,4 @@
-Hello &#128187;
+Hello,
 - I’m Naziur Rahman
 - I am a web professional
 - Frontend-Figma,Tailwind CSS,VueJS
