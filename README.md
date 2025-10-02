@@ -1,6 +1,6 @@
 Hello,
 - I’m Naziur Rahman
-- I am a web professional
+- I am a Software Enthusiast
 - Frontend-Figma,Tailwind CSS,VueJS
 - Backend-Laravel
 - Database-Mysql
