@@ -81,7 +81,7 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nr2325&theme=radical&row=1&column=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=radical)
 
 
 
