@@ -87,9 +87,6 @@ I focus on writing clean code, building maintainable applications, and creating 
   <img src="https://streak-stats.demolab.com?user=nr2325&theme=radical&hide_border=true&background=0D1117&fire=7C3AED&ring=7C3AED" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nr2325&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
-</p>
 
 ---
 
