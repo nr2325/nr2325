@@ -24,7 +24,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 # 🛠️ Tech Stack
 
-## 🎨 Frontend Development
+## Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,vue,nuxt,react,nextjs"/>
@@ -32,7 +32,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,spring"/>
@@ -41,7 +41,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 ---
 
-## 🗄️ Database
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle"/>
@@ -49,7 +49,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 ---
 
-## 🤖 AI Tools
+## AI Tools
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge&logo=openai"/>
@@ -58,7 +58,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 ---
 
-## 🧰 Tools & Workflow
+## Tools & Workflow
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -67,7 +67,7 @@ I love creating scalable, efficient, and user-friendly applications using approp
 
 ---
 
-## 🖥️ Server & Deployment
+## Server & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,nginx,docker"/>
