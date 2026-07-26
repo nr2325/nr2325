@@ -81,6 +81,8 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=nr2325&theme=radical&row=1&column=6)
+
 
 
 <p align="center">
