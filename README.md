@@ -2,23 +2,23 @@
   ═══════════════════════════════════════════════════════════════════════════
   PREMIUM ANIMATED GITHUB PROFILE - COMPLETE VERSION
   ═══════════════════════════════════════════════════════════════════════════
-  Instructions: Replace "yournr2325" with your actual GitHub nr2325
+  Instructions: Replace "nr2325" with your actual GitHub username
   in ALL places (12 replacements total)
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
 <!-- ===== 1. ANIMATED TYPING BANNER ===== -->
 <p align="center">
-  <a href="https://github.com/yournr2325">
+  <a href="https://github.com/nr2325">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+%5BYour+Name%5D;Full-Stack+Architect;Cloud+Native+Developer;Open+Source+Contributor;Building+Scalable+Systems;Welcome+to+my+GitHub!🚀" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===== 2. ANIMATED SNAKE (CONTRIBUTION GRID) ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yournr2325/yournr2325/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yournr2325/yournr2325/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yournr2325/yournr2325/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nr2325/nr2325/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nr2325/nr2325/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nr2325/nr2325/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- ===== 3. ANIMATED TECH STACK ICONS ===== -->
@@ -58,9 +58,9 @@
 
 <!-- ===== 4. VISITOR COUNTER ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?nr2325=yournr2325&style=for-the-badge&color=7C3AED&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/yournr2325?style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/yournr2325?style=for-the-badge&color=7C3AED" />
+  <img src="https://komarev.com/ghpvc/?username=nr2325&style=for-the-badge&color=7C3AED&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/nr2325?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/nr2325?style=for-the-badge&color=7C3AED" />
 </p>
 
 <!-- ===== 5. ABOUT ME SECTION ===== -->
@@ -82,48 +82,48 @@
 <h2 align="center">📊 Contribution Activity Wave</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?nr2325=yournr2325&theme=react-dark&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true&area=true&area_color=7C3AED&custom_title=🔥%20Contribution%20Activity%20Wave" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nr2325&theme=react-dark&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true&area=true&area_color=7C3AED&custom_title=🔥%20Contribution%20Activity%20Wave" width="100%" />
 </p>
 
 <!-- ===== 7. MAIN STATS CARDS ===== -->
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?nr2325=yournr2325&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?nr2325=yournr2325&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&cache_seconds=1800" />
 </p>
 
 <!-- ===== 8. LANGUAGE PIE CHART ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nr2325=yournr2325&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&border_radius=10&cache_seconds=1800" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&border_radius=10&cache_seconds=1800" width="400" />
 </p>
 
 <!-- ===== 9. STREAK STATS ===== -->
 <h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yournr2325&theme=radical&hide_border=true&background=0D1117&fire=7C3AED&ring=7C3AED&currStreakLabel=7C3AED&sideLabels=FFFFFF&sideNums=7C3AED&currStreakNum=FFFFFF&dates=FFFFFF&stroke=7C3AED&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nr2325&theme=radical&hide_border=true&background=0D1117&fire=7C3AED&ring=7C3AED&currStreakLabel=7C3AED&sideLabels=FFFFFF&sideNums=7C3AED&currStreakNum=FFFFFF&dates=FFFFFF&stroke=7C3AED&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <!-- ===== 10. ACHIEVEMENT TROPHIES ===== -->
 <h2 align="center">🏆 Achievements & Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?nr2325=yournr2325&theme=radical&no-frame=true&row=3&column=4&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nr2325&theme=radical&no-frame=true&row=3&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 <!-- ===== 11. CONTRIBUTION CALENDAR ===== -->
 <h2 align="center">📅 Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/yournr2325" width="100%" />
+  <img src="https://ghchart.rshah.org/7C3AED/nr2325" width="100%" />
 </p>
 
 <!-- ===== 12. COMPLETE METRICS DASHBOARD ===== -->
 <h2 align="center">📊 Complete Metrics Dashboard</h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/yournr2325?template=classic&isocalendar=1&languages=1&stars=1&followup=1&repositories=1&lines=1&habits=1&activity=1&achievements=1&notable=1&projects=1&discussions=1&sponsors=1" width="100%" />
+  <img src="https://metrics.lecoq.io/nr2325?template=classic&isocalendar=1&languages=1&stars=1&followup=1&repositories=1&lines=1&habits=1&activity=1&achievements=1&notable=1&projects=1&discussions=1&sponsors=1" width="100%" />
 </p>
 
 <!-- ===== 13. WAKATIME STATS ===== -->
@@ -132,7 +132,7 @@
 <h2 align="center">⏰ Weekly Coding Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?nr2325=your_wakatime_nr2325&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&layout=compact&custom_title=⏰%20Weekly%20Coding%20Activity&cache_seconds=3600" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&layout=compact&custom_title=⏰%20Weekly%20Coding%20Activity&cache_seconds=3600" width="100%" />
 </p>
 -->
 
@@ -152,17 +152,17 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yournr2325/project-1">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?nr2325=yournr2325&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <a href="https://github.com/nr2325/project-1">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nr2325&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
   </a>
-  <a href="https://github.com/yournr2325/project-2">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?nr2325=yournr2325&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <a href="https://github.com/nr2325/project-2">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nr2325&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
   </a>
-  <a href="https://github.com/yournr2325/project-3">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?nr2325=yournr2325&repo=project-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <a href="https://github.com/nr2325/project-3">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nr2325&repo=project-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
   </a>
-  <a href="https://github.com/yournr2325/project-4">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?nr2325=yournr2325&repo=project-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <a href="https://github.com/nr2325/project-4">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nr2325&repo=project-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
   </a>
 </p>
 
@@ -197,23 +197,23 @@
 <h2 align="center">☕ Support My Work</h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yournr2325">
+  <a href="https://www.buymeacoffee.com/nr2325">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/yournr2325">
+  <a href="https://ko-fi.com/nr2325">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
-  <a href="https://www.patreon.com/yournr2325">
+  <a href="https://www.patreon.com/nr2325">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
-  <a href="https://github.com/sponsors/yournr2325">
+  <a href="https://github.com/sponsors/nr2325">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </p>
 
 <!-- ===== 18. FOOTER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yournr2325/yournr2325/output/snake.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/nr2325/nr2325/output/snake.svg" width="50" />
   <br>
   <b>💖 Thanks for visiting! Keep coding and stay awesome! 💖</b>
   <br>
@@ -235,7 +235,7 @@
   ═══════════════════════════════════════════════════════════════════════════
   IMPORTANT SETUP INSTRUCTIONS:
   
-  1. Replace ALL instances of "yournr2325" with your GitHub nr2325
+  1. Replace ALL instances of "nr2325" with your GitHub username
      (12+ replacements needed)
   
   2. To enable the ANIMATED SNAKE:
@@ -247,7 +247,7 @@
   3. To enable WAKATIME STATS:
      - Create account at wakatime.com
      - Install IDE plugin
-     - Replace "your_wakatime_nr2325" with your Wakatime nr2325
+     - Replace "your_wakatime_username" with your Wakatime username
   
   4. To enable SPOTIFY CARD:
      - Follow: https://github.com/novatorem/novatorem
