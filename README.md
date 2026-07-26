@@ -1,21 +1,91 @@
-<h1 align="center">Hi 👋, I'm Naziur Rahman</h1>
-<h3 align="center">I am a Software Enthusiast</h3>
+# Hi, I'm Naziur 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nr2325&label=Profile%20views&color=0e75b6&style=flat" alt="nr2325" /> </p>
+## 💻 Web Application Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nr2325" alt="nr2325" /></a> </p>
+I am a passionate Web Application Developer focused on building scalable, secure, and user-friendly web applications.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I enjoy working with backend development, database design, API development, and modern web technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🚀 Skills & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nr2325&show_icons=true&locale=en&layout=compact" alt="nr2325" /></p>
+### Backend
+- PHP
+- Laravel
+- REST API
+- MySQL
+- PostgreSQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&locale=en" alt="nr2325" /></p>
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Vue.js
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nr2325&" alt="nr2325" /></p>
+### Tools & DevOps
+- Git & GitHub
+- Composer
+- Docker
+- Linux
+- CI/CD
+- GitHub Actions
+
+---
+
+## 🔥 What I Do
+
+- Build scalable web applications
+- Design database architecture
+- Develop RESTful APIs
+- Optimize SQL queries
+- Create admin dashboards
+- Deploy applications on servers
+
+---
+
+## 📌 Projects
+
+### 🚀 Business Management System
+- Laravel based ERP application
+- Inventory management
+- Sales & purchase management
+- Reporting system
+
+### 🚀 Web Applications
+- Authentication systems
+- API integrations
+- Dashboard applications
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nr2325&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nr2325&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: Your LinkedIn URL
+- Email: your-email@example.com
+
+---
+
+⭐ Thanks for visiting my profile!
