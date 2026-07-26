@@ -1,91 +1,123 @@
-# Hi, I'm Naziur 👋
+# 👋 Hi, I'm Naziur
 
-## 💻 Web Application Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5E00B9&center=true&vCenter=true&width=600&lines=Web+Application+Developer;Laravel+Developer;Backend+Engineer;Building+Scalable+Applications" />
 
-I am a passionate Web Application Developer focused on building scalable, secure, and user-friendly web applications.
-
-I enjoy working with backend development, database design, API development, and modern web technologies.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nr2325&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About Me
+
+💻 Web Application Developer  
+⚡ Specialized in Laravel & Backend Development  
+🗄️ Database Design & Optimization Enthusiast  
+🚀 Interested in Cloud, DevOps & Automation  
+
+I build scalable web applications with clean architecture, optimized database queries, and modern development practices.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-- PHP
-- Laravel
-- REST API
-- MySQL
-- PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Vue.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### Tools & DevOps
-- Git & GitHub
-- Composer
-- Docker
-- Linux
-- CI/CD
-- GitHub Actions
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,githubactions" />
+</p>
 
 ---
 
-## 🔥 What I Do
+# 💼 What I Do
 
-- Build scalable web applications
-- Design database architecture
-- Develop RESTful APIs
-- Optimize SQL queries
-- Create admin dashboards
-- Deploy applications on servers
+✅ Laravel Application Development  
+✅ REST API Development  
+✅ Database Architecture  
+✅ SQL Query Optimization  
+✅ Admin Dashboard Development  
+✅ Server Deployment & CI/CD  
 
 ---
 
-## 📌 Projects
+# 📌 Featured Projects
 
-### 🚀 Business Management System
-- Laravel based ERP application
+## 🏢 ERP Management System
+
+- Laravel based enterprise application
 - Inventory management
-- Sales & purchase management
+- Sales & purchase modules
 - Reporting system
+- Role permission management
 
-### 🚀 Web Applications
+
+## 🌐 Web Applications
+
 - Authentication systems
 - API integrations
-- Dashboard applications
+- Business automation solutions
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nr2325&theme=tokyonight)
 
 ---
 
-## 📈 Activity Graph
+# 🏆 GitHub Trophy
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nr2325&theme=tokyo-night)
+<img src="https://github-profile-trophy.vercel.app/?username=nr2325&theme=tokyonight&no-frame=true&row=1"/>
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nr2325&theme=tokyo-night&hide_border=true"/>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/nr2325/output/github-contribution-grid-snake.svg"/>
+
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+<a href="https://github.com/nr2325">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+
+---
+
+⭐ From [Naziur](https://github.com/nr2325)
