@@ -81,10 +81,7 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nr2325&theme=radical&hide_border=true&background=0D1117&fire=7C3AED&ring=7C3AED" alt="GitHub Streak" />
