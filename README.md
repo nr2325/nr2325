@@ -81,7 +81,9 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=radical)
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
 
 
 
