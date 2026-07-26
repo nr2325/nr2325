@@ -124,7 +124,9 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nr2325&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr2325&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 
