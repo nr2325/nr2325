@@ -81,11 +81,6 @@ I focus on writing clean code, building maintainable applications, and creating 
 
 ---
 
-## 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nr2325&theme=radical&hide_border=true&background=0D1117&fire=7C3AED&ring=7C3AED" alt="GitHub Streak" />
